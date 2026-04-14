@@ -60,4 +60,4 @@ MIT
 ---
 
 > 本 Skill 由 [上帝 · Skill造人术] 生成
-> 创建者：[taizi123789](https://github.com/taizi123789)
+> 创建者：[好名字](https://github.com/taizi123789)
